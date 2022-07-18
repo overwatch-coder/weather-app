@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/overwatch-coder/weather-app/static/css/main.32f5cc90.css",
+    "main.js": "/overwatch-coder/weather-app/static/js/main.a3681228.js",
+    "static/media/haze.jpg": "/overwatch-coder/weather-app/static/media/haze.ebddb9305acae2a3692e.jpg",
+    "static/media/sunny.jpg": "/overwatch-coder/weather-app/static/media/sunny.4cb02311e74a6cc45295.jpg",
+    "static/media/cloudy.jpg": "/overwatch-coder/weather-app/static/media/cloudy.b5b2890214cfbc448e9c.jpg",
+    "static/media/default.jpg": "/overwatch-coder/weather-app/static/media/default.66e60e8a35a3e4cd8198.jpg",
+    "static/media/mist.jpg": "/overwatch-coder/weather-app/static/media/mist.1e1bea490a3e5782fbe3.jpg",
+    "static/media/stormy.jpg": "/overwatch-coder/weather-app/static/media/stormy.b04a66aa149fa87c06d3.jpg",
+    "index.html": "/overwatch-coder/weather-app/index.html",
+    "main.32f5cc90.css.map": "/overwatch-coder/weather-app/static/css/main.32f5cc90.css.map",
+    "main.a3681228.js.map": "/overwatch-coder/weather-app/static/js/main.a3681228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f5cc90.css",
+    "static/js/main.a3681228.js"
+  ]
+}
