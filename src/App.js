@@ -122,7 +122,7 @@ function App() {
           {/* Display Add Button to save a searched city */}
         {displayWeather && 
           <MdAddCircle 
-            className="absolute bottom-10 right-10 text-5xl text-light hover:text-light/80 transition cursor-pointer"
+            className="absolute bottom-10 right-3 text-3xl sm:text-5xl text-light hover:text-light/80 transition cursor-pointer"
             onClick={() => saveCity(city)} 
             />
           }
